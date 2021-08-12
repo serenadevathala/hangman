@@ -37,7 +37,7 @@ userGuess = raw_input("You've run out of tries. Guess word.")
 if userGuess == word:
     print("Congrats you've guess the word")
 else:
-    print("You lost hangman")
+    print("Sorry. You lost hangman")
 
 
     #letterIndex = word.index(letter)
