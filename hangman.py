@@ -35,7 +35,7 @@ while num > 0:
 
 userGuess = raw_input("You've run out of tries. Guess word.")
 if userGuess == word:
-    print("Congrats you've guess the word")
+    print("Congrats you've guess the word!!")
 else:
     print("Sorry. You lost hangman")
 
